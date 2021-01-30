@@ -17,6 +17,10 @@ In these situation this chrome extension come in game, when you are on you desir
 </div>
 
 
+## Features
+   1. It uses [Crome extension react boilerplate](https://www.npmjs.com/package/chrome-extension-boilerplate-react)
+   2. Used react to write extension.
+   3. Use [react QR package](https://www.npmjs.com/package/qrcode.react)
 
 ## Installing and Running
 
