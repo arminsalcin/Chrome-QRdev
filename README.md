@@ -11,6 +11,7 @@ There are times when you need to test your app on real phones but you didn't dep
 In these situation this chrome extension come in game, when you are on you desired page localhost or some other url you just press it and it will generate QR code that u scan with your phone and bum 🎉 it open on your phone exactly like on your machine.
 
 <img src="resources/show.gif" width="30%"/>
+<img src="resources/show2.gif" width="30%"/>
 
 ## Installing and Running
 
