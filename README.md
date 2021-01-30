@@ -2,7 +2,7 @@
 
 # Chrome Extension for developers to test local apps on real phones
 
-
+<img src="resources/show.gif" width="64"/>
 
 ## Installing and Running
 
