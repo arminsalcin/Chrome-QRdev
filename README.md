@@ -1,6 +1,10 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
+
 # Chrome Extension for developers to test local apps on real phones.
+
+## Important! - It will be soon available on chrome extensions store, i need to wait for app approval.
+
 
 There are times when you need to test your app on real phones but you didn't deploy your site on the server so you can see it on your real device. We all know one option, you need to find your local ip address and port that your app is running and manually write it in your phone browser, that can be hard sometimes because example you have big url query or you need to test different urls etc... 
 
