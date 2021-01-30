@@ -1,8 +1,8 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
-# Chrome Extension for developers to test local apps on real phones
+# Chrome Extension for developers to test local apps on real phones.
 
-<img src="resources/show.gif" width="64"/>
+<img src="resources/show.gif" width="30%"/>
 
 ## Installing and Running
 
