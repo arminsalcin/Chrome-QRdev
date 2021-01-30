@@ -2,6 +2,10 @@
 
 # Chrome Extension for developers to test local apps on real phones.
 
+There are times when you need to test your app on real phones but you didn't deploy your site on the server so you can see it on your real device. We all know one option, you need to find your local ip address and port that your app is running and manually write it in your phone browser, that can be hard sometimes because example you have big url query or you need to test different urls etc... 
+
+In these situation this chrome extension come in game, when you are on you desired page localhost or some other url you just press it and it will generate QR code that u scan with your phone and bum 🎉 it open on your phone exactly like on your machine.
+
 <img src="resources/show.gif" width="30%"/>
 
 ## Installing and Running
